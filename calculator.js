@@ -45,7 +45,8 @@ function multiply(term1, term2) {
 
 		var result = parseFloat(term1) * parseFloat(term2);
 	}
-return result;
+	output.innerHTML = result;
+	return result;
 	
 }
 
