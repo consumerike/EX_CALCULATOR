@@ -98,7 +98,7 @@ function divide(term1, term2) {
 	return result;
 
 
-
+}
   // Create a function that accepts three arguments.
   //   1. First number
   //   2. Second number
